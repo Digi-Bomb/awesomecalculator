@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Ben_awesomecalculator.egg-info/PKG-INFO
+Ben_awesomecalculator.egg-info/SOURCES.txt
+Ben_awesomecalculator.egg-info/dependency_links.txt
+Ben_awesomecalculator.egg-info/entry_points.txt
+Ben_awesomecalculator.egg-info/requires.txt
+Ben_awesomecalculator.egg-info/top_level.txt
+calculator/__init__.py
+calculator/core.py
+tests/__init__.py
+tests/testscalculatortests.py
